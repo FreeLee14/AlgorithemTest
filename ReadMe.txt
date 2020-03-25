@@ -1,15 +1,4 @@
-Camel Java Router Project
-=========================
-
-To build this project use
-
-    mvn install
-
-To run this project from within Maven use
-
-    mvn exec:java
-
-For more help see the Apache Camel documentation
-
-    http://camel.apache.org/
+算法练习内容所在路径：algorithm_test1\src\com\zrwang\algorithmtest 
+LeeCode刷题记录存在于LeeCode文件夹中
+其次根据包名的英文含义可找到对应的数据结构的自行实现
 
