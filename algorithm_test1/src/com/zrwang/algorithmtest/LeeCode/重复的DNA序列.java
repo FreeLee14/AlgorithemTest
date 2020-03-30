@@ -46,6 +46,7 @@ public class 重复的DNA序列 {
 
         }
         List<String> result = new ArrayList<>();
+
         for (String d: depeated){
 
             result.add(d);
