@@ -1,4 +1,5 @@
 算法练习内容所在路径：algorithm_test1\src\com\zrwang\algorithmtest 
 LeeCode刷题记录存在于LeeCode文件夹中
 其次根据包名的英文含义可找到对应的数据结构的自行实现
-
+2020-06-06 
+新增剑指offer刷题记录依旧在上述文件路径之下的SideToOffer文件夹下
